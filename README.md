@@ -1,1 +1,15 @@
-![](https://github.com/indyfrog/indyfrog/blob/23b008cabf7013afce139a01643f21735513e505/61E1E20F-3406-465B-B922-43F8C9678487.png)
+**hey there, i'm koko!**
+*she/her*
+
+* a developer from indiana
+* focusing on a career in meteorology
+* learning new things daily
+
+contact email:
+```
+const username = "koko"
+const domain = "jizzmail"
+const tld = "com"
+
+print(username + "@" + domain + "." + tld)
+```
