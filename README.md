@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning about **Meteorology and Atmospheric Sciences**
 
-- ⚡ Fun fact **R&D Technician at LBP Union**
+- ⚡ I am an **R&D Technician at LBP Union**!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
