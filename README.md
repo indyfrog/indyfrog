@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Koko</h1>
 <h3 align="center">A silly goofy developer from the Midwest</h3>
-
+<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sudokoko&show_icons=true&locale=en" alt="sudokoko" /></p>
 
 <p align="left"> <a href="https://twitter.com/kokofloral" target="blank"><img src="https://img.shields.io/twitter/follow/kokofloral?logo=twitter&style=for-the-badge" alt="kokofloral" /></a> <img src="https://komarev.com/ghpvc/?username=sudokoko&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="sudokoko"</a></p>
