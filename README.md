@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/kokofloral" target="blank"><img src="https://img.shields.io/twitter/follow/kokofloral?logo=twitter&style=for-the-badge" alt="kokofloral" /></a> <img src="https://komarev.com/ghpvc/?username=sudokoko&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="sudokoko"</a></p>
 
-- 🔭 I’m currently working on a file hosting project called [Shithole](https://github.com/sudokoko/shithole) (silly name!)
+- 🔭 I currently assist with [ProjectLighthouse](https://github.com/LBPUnion/ProjectLighthouse) and other related things.
 
 - 🌱 I’m currently learning about **Meteorology and Atmospheric Sciences**
 
