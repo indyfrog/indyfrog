@@ -14,6 +14,7 @@ hey there, i'm koko.
 projects i participate in actively:
  @@ (LBPUnion) ProjectLighthouse @@
  @@ (JarHead)  Redialed          @@
+ @@ (personal) Neobox            @@
  
 ───▄▀▀▀▄▄▄▄▄▄▄▀▀▀▄───
 ───█▒▒░░░░░░░░░▒▒█───
