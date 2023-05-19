@@ -15,12 +15,7 @@ hey there, i'm koko.
  >> full-stack developer
  >> plays a lot of games, listens to a lot of music
  
- my commits will almost always be signed with
- F1D4BBECD02A0F2E or 8A30B7E37CAAE0DA, sometimes
- i forget though :)
- 
- ** old signing keys: **
- 729D90EF490599E8
+ https://pgp.drones.gay/key?id=8A30B7E37CAAE0DA
  
 projects i participate in actively:
  @@ (LBPUnion) ProjectLighthouse @@
