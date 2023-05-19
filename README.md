@@ -11,7 +11,7 @@
 
 hey there, i'm koko.
 
- >> pathfinder and r&d technician @ lbp union
+ >> security & technology ministries @LBPUnion
  >> full-stack developer
  >> plays a lot of games, listens to a lot of music
  
