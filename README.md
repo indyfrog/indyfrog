@@ -17,11 +17,6 @@ hey there, i'm koko.
  
  https://pgp.drones.gay/key?id=8A30B7E37CAAE0DA
  
-projects i participate in actively:
- @@ (LBPUnion) ProjectLighthouse @@
- @@ (JarHead)  Redialed          @@
- @@ (personal) Neobox            @@
- 
 ───▄▀▀▀▄▄▄▄▄▄▄▀▀▀▄───
 ───█▒▒░░░░░░░░░▒▒█───
 ────█░░█░░░░░█░░█────
