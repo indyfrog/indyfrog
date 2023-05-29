@@ -15,7 +15,7 @@ hey there, i'm koko.
  >> full-stack developer
  >> plays a lot of games, listens to a lot of music
  
- https://pgp.drones.gay/key?id=8A30B7E37CAAE0DA
+ >> pgp signing key id: 8A30B7E37CAAE0DA
  
 ───▄▀▀▀▄▄▄▄▄▄▄▀▀▀▄───
 ───█▒▒░░░░░░░░░▒▒█───
