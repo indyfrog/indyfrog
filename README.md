@@ -15,7 +15,7 @@ hey there, i'm koko.
  >> full-stack developer
  >> plays a lot of games, listens to a lot of music
  
- >> pgp signing key id: 8A30B7E37CAAE0DA
+ >> pgp signing key id: 48BB40C0F649D603
  
 ───▄▀▀▀▄▄▄▄▄▄▄▀▀▀▄───
 ───█▒▒░░░░░░░░░▒▒█───
