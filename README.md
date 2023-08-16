@@ -11,7 +11,7 @@
 
 hey there, i'm koko.
 
- >> security & technology ministries @LBPUnion
+ >> atmospheric sciences nerd
  >> full-stack developer
  >> plays a lot of games, listens to a lot of music
  
