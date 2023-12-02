@@ -39,4 +39,10 @@
             <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40" /> </a>
         </p>
     </div>
+    <div>
+        <h2>Contact Me</h2>
+        <p>
+            You can reach me by shooting an email to <a href="mailto:koko@sudokoko.xyz">koko@sudokoko.xyz</a>. Be sure to check your spam folder for replies, my emails tend to end up there.
+        </p>
+    </div>
 </div>
