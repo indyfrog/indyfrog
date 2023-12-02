@@ -40,13 +40,4 @@
             <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40" /> </a>
         </p>
     </div>
-    <div>
-        <h2>Active Projects</h2>
-        <p>
-            <a href="https://github.com/LBPUnion/ProjectLighthouse"> <img src="https://beacon.lbpunion.com/logo-color.png" width="40" height="40" /> </a>
-            <a href="https://github.com/LBPUnion/PLRPC"> <img src="https://avatars.githubusercontent.com/u/89696268" width="40" height="40" /> </a>
-            <a href="https://github.com/LBPUnion/Starnet"> <img src="https://avatars.githubusercontent.com/u/89696268" width="40" height="40" /> </a>
-            <a href="https://github.com/txts-team/txts"> <img src="https://avatars.githubusercontent.com/u/143002075" width="40" height="40" /> </a>
-        </p>
-    </div>
 </div>
