@@ -42,7 +42,7 @@
     <div>
         <h2>Contact Me</h2>
         <p>
-            You can reach me by shooting an email to <a href="mailto:koko@sudokoko.xyz">koko@sudokoko.xyz</a>. Be sure to check your spam folder for replies, my emails tend to end up there.
+            You can reach me by <a href="mailto:koko@sudokoko.xyz">shooting me an email</a>. Be sure to check your spam folder for replies, my emails tend to end up there.
         </p>
     </div>
 </div>
